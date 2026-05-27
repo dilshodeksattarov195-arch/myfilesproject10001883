@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchrtringify",
+        "uuid": 1336930,
+        "checksum": "hy06c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
